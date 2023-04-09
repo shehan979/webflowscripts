@@ -1,4 +1,5 @@
 
+<style>
 
 .rangeslider,
 .rangeslider__fill {
@@ -264,6 +265,39 @@ input[type="range"]:focus + .rangeslider .rangeslider__handle {
   display: none;
 }
 
+  
+
+/* style 3 */
+.pricing-card.active-4 .pricing-card-4 {display: block} 
+.pricing-card.active-4 .pricing-card-1,
+.pricing-card.active-4 .pricing-card-2,
+.pricing-card.active-4 .pricing-card-3,
+.pricing-card.active-4 .pricing-card-5,
+.pricing-card.active-4 .pricing-card-6,
+.pricing-card.active-4 .pricing-card-7,
+.pricing-card.active-4 .pricing-card-8,
+.pricing-card.active-4 .pricing-card-9,
+.pricing-card.active-4 .pricing-card-10,
+.pricing-card.active-4 .pricing-card-11,{
+  display: none;
+}
+  
+.pricing-card.active-4 .pricing-details-4 {display: block} 
+.pricing-card.active-4 .pricing-details-1,
+.pricing-card.active-4 .pricing-details-2,
+.pricing-card.active-4 .pricing-details-3,
+.pricing-card.active-4 .pricing-details-5,
+.pricing-card.active-4 .pricing-details-6,
+.pricing-card.active-4 .pricing-details-7,
+.pricing-card.active-4 .pricing-details-8,
+.pricing-card.active-4 .pricing-details-9,
+.pricing-card.active-4 .pricing-details-10,
+.pricing-card.active-4 .pricing-details-11,{
+  display: none;
+}
+
 
 .pricing-card.display-hidden .pricing-card-1,.pricing-card.display-hidden .pricing-details-1  {display: none !important} 
   
+
+</style>
